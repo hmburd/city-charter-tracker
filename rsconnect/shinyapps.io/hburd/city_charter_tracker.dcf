@@ -1,0 +1,12 @@
+name: city_charter_tracker
+title: city_charter_tracker
+username: hburd
+account: hburd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15620603
+bundleId:
+url: https://hburd.shinyapps.io/city_charter_tracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
